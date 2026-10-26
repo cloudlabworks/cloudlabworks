@@ -21,6 +21,8 @@ Cloud and AI triage, lab builds and open source, from Duvall, WA. Principal arch
 
 ### Communities
 
+[![NVIDIA Inception: Member](https://cloudlabworks.dev/media/sticker-social-nvidia-inception.svg)](https://www.nvidia.com/en-us/startups/) **NVIDIA Inception · Member**: Cloud Lab Works was accepted into NVIDIA's program for AI startups on 26 October 2026.
+
 [![Cognitum Seed: Founding Member](https://cloudlabworks.dev/media/sticker-social-cognitum-seed.svg)](https://cognitum.one/) **Cognitum Seed · Founding Member**: a founding owner of the Cognitum Seed edge appliance for agent memory.
 
 <sub>Independent projects. Not affiliated with or endorsed by Nutanix, Luxonis or any vendor named here.</sub>
