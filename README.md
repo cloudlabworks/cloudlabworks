@@ -19,10 +19,22 @@ Cloud and AI triage, lab builds and open source, from Duvall, WA. Principal arch
 
 [Project covers, details and source links](https://cloudlabworks.dev/portfolio#oss)
 
+### Research
+
+Preprints with DOIs on Zenodo, each with a citable page on [cloudlabworks.dev/papers](https://cloudlabworks.dev/papers):
+
+- [MCP Failure Lab: Reproducible Tool-Failure Fixtures and Cross-Platform Traces for Testing Agent Reliability](https://doi.org/10.5281/zenodo.23720942)
+- [Predicting AI-System Responses Without Running Them (NeurIPS 2026 Predictive AI Evaluation Competition)](https://doi.org/10.5281/zenodo.23720944)
+- [A Smaller On-Device Model Artifact Matched or Beat a Larger One: 4B and 9B RKLLM Artifacts on the RK3588 NPU](https://doi.org/10.5281/zenodo.23720938)
+
+[ORCID](https://orcid.org/0009-0008-0614-1636) · [Google Scholar](https://scholar.google.com/citations?user=0Htx4jQAAAAJ) · [Web of Science](https://www.webofscience.com/wos/author/record/RJT-9484-2026) · [Academia.edu](https://independent.academia.edu/AlvordAlex) · [ResearchID](https://researchid.co/cloudlabworks)
+
 ### Communities
 
 [![NVIDIA Inception: Member](https://cloudlabworks.dev/media/sticker-social-nvidia-inception.svg)](https://www.nvidia.com/en-us/startups/) **NVIDIA Inception · Member**: Cloud Lab Works was accepted into NVIDIA's program for AI startups on 26 October 2026.
 
 [![Cognitum Seed: Founding Member](https://cloudlabworks.dev/media/sticker-social-cognitum-seed.svg)](https://cognitum.one/) **Cognitum Seed · Founding Member**: a founding owner of the Cognitum Seed edge appliance for agent memory.
+
+[![AAAI: Member](https://cloudlabworks.dev/media/sticker-social-aaai.svg)](https://aaai.org/) **AAAI · Member**: Alex Alvord is a member of the Association for the Advancement of Artificial Intelligence (2026–2027).
 
 <sub>Independent projects. Not affiliated with or endorsed by Nutanix, Luxonis or any vendor named here.</sub>
