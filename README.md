@@ -1,4 +1,4 @@
-### Cloud Lab Works
+### CloudLab Works
 
 Cloud and AI triage, lab builds and open source, from Duvall, WA. Principal architect: [Alex Alvord](https://github.com/issaquahd).
 [cloudlabworks.dev](https://cloudlabworks.dev) · [LinkedIn](https://www.linkedin.com/in/alexalvord/)
@@ -31,10 +31,36 @@ Preprints with DOIs on Zenodo, each with a citable page on [cloudlabworks.dev/pa
 
 ### Communities
 
-[![NVIDIA Inception: Member](https://cloudlabworks.dev/media/sticker-social-nvidia-inception.svg)](https://www.nvidia.com/en-us/startups/) **NVIDIA Inception · Member**: Cloud Lab Works was accepted into NVIDIA's program for AI startups on 26 October 2026.
+[![NVIDIA Inception: Member](https://cloudlabworks.dev/media/sticker-social-nvidia-inception.svg)](https://www.nvidia.com/en-us/startups/) **NVIDIA Inception · Member**: CloudLab Works was accepted into NVIDIA's program for AI startups on 26 October 2026.
 
-[![Cognitum Seed: Founding Member](https://cloudlabworks.dev/media/sticker-social-cognitum-seed.svg)](https://cognitum.one/) **Cognitum Seed · Founding Member**: a founding owner of the Cognitum Seed edge appliance for agent memory.
+[![Cognitum Seed: Owner](https://cloudlabworks.dev/media/sticker-social-cognitum-seed.svg)](https://cognitum.one/) **Cognitum Seed · Owner**: runs a Cognitum Seed edge appliance for agent memory in the lab.
 
 [![AAAI: Member](https://cloudlabworks.dev/media/sticker-social-aaai.svg)](https://aaai.org/) **AAAI · Member**: Alex Alvord is a member of the Association for the Advancement of Artificial Intelligence (2026–2027).
+
+[![AWS Activate](https://cloudlabworks.dev/media/sticker-social-prog-aws-activate.svg)](https://aws.amazon.com/startups/) **AWS Activate · Member**: accepted into the AWS startup program in October 2026.
+
+[![NVIDIA Developer Program](https://cloudlabworks.dev/media/sticker-social-nvidia.svg)](https://developer.nvidia.com/developer-program) **NVIDIA Developer Program · Member**: member since October 2026.
+
+[![AMD AI Developer Program](https://cloudlabworks.dev/media/sticker-social-amd.svg)](https://developer.amd.com/ai-developer-program/) **AMD AI Developer Program · Member**: member since October 2026.
+
+[![Hugging Face](https://cloudlabworks.dev/media/sticker-social-huggingface.svg)](https://huggingface.co/cloudlabworks) **Hugging Face · cloudlabworks**: datasets and Spaces published by CloudLab Works.
+
+[![Kaggle](https://cloudlabworks.dev/media/sticker-social-kaggle-competitor.svg)](https://www.kaggle.com/alexalvord) **Kaggle · Member and Competitor**: Playground Series S6E10 (public ROC AUC 0.95844).
+
+[![Codabench](https://cloudlabworks.dev/media/sticker-social-codabench.svg)](https://www.codabench.org/competitions/17828/) **Codabench · NeurIPS 2026**: approved for Stanford AIMS Predictive AI Evaluation and AIMO Interpretability.
+
+[![Devpost](https://cloudlabworks.dev/media/sticker-social-devpost.svg)](https://devpost.com/alex800) **Devpost · OpenCV AI Competition 2026**: entrant with Guetteur.
+
+[![DrivenData](https://cloudlabworks.dev/media/sticker-social-drivendata.svg)](https://www.drivendata.org/users/cloudlabworks/) **DrivenData · Member**: LLM summarization and time-series competitions.
+
+[![Zindi](https://cloudlabworks.dev/media/sticker-social-zindi.svg)](https://zindi.world/users/cloudlabworks) **Zindi · Member**: data science competition community.
+
+[![EvalAI](https://cloudlabworks.dev/media/sticker-social-evalai.svg)](https://eval.ai/) **EvalAI · Member**: open AI evaluation challenges.
+
+[![AIcrowd](https://cloudlabworks.dev/media/sticker-social-aicrowd.svg)](https://www.aicrowd.com/) **AIcrowd · Member**: open AI challenges.
+
+[![X-MOL](https://cloudlabworks.dev/media/sticker-social-xmol.svg)](https://www.x-mol.net/) **X-MOL · Member**: academic research platform.
+
+[![Swamp Club](https://cloudlabworks.dev/media/sticker-social-swamp-club.svg)](https://swamp-club.com/u/cloudlabworks) **Swamp Club · Member**: cloudlabworks, Genesis quest.
 
 <sub>Independent projects. Not affiliated with or endorsed by Nutanix, Luxonis or any vendor named here.</sub>
